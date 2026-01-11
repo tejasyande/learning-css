@@ -1,0 +1,26 @@
+h3{
+    color: aqua;
+    background-color: black;
+    font-size: 33px;
+}
+p{
+    color: beige;
+    background-color: black;
+    font-size: 32px;
+}
+thead{
+   background-color: aquamarine;
+   color: black;
+   font-size: 40px;
+
+}
+td{
+    background-color: black;
+    color: white;
+    font-size: 33;
+}
+P{
+     color: aqua;
+    background-color: black;
+    font-size: 33px;
+}
