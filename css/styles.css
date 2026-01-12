@@ -3,11 +3,11 @@ h3{
     background-color: black;
     font-size: 33px;
 }
-p{
+/* p{
     color: beige;
     background-color: black;
     font-size: 32px;
-}
+} */
 thead{
    background-color: aquamarine;
    color: black;
@@ -19,8 +19,87 @@ td{
     color: white;
     font-size: 33;
 }
-P{
+/* P{
      color: aqua;
     background-color: black;
     font-size: 33px;
+} */
+
+ .uppercase{
+            text-transform: uppercase;
+            background-color: aqua;
+            color: black;
+            
+        }
+.lowercase{
+            text-transform: lowercase;
+            text-align: center;
+
+        }
+        
+.capitlize{
+            text-transform: capitalize;
+        }
+
+.strongtitle{
+    text-transform: capitalize;
 }
+.alignclass{
+    text-align: center;
+    background-color: cadetblue ;
+    text-decoration:line-through;
+    text-decoration:overline;
+}
+
+.linethrugh{
+    text-decoration: line-through;
+
+}
+.underline{
+    text-decoration: underline;
+}
+
+.overline{
+     text-decoration: overline;
+}
+
+.alldecoration{
+    text-decoration: line-through underline overline;
+}
+
+.textindent{
+    text-indent: 160px;
+}
+
+.linehead{
+    line-height: 30px;
+    text-indent: 160px;
+}
+
+.letterspace{
+    letter-spacing: 50px;
+}
+.wordspace{
+    word-spacing: 25px
+}
+
+.textshaddow{
+    color: chocolate;
+    text-shadow: 15px 10px 10px black ;
+    /* first value=horizantal
+    second is vertically
+    third is blur */
+}
+
+.textshaddow1{
+    text-shadow: 10px 10px 10px orangered;
+    text-align: center;
+}
+
+.textshaddow2{
+    color: rgb(199, 4, 248);
+    text-shadow: 10px 7px 5px black;
+    text-align: right;
+    font-size: 45px;
+}
+
