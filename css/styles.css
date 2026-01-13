@@ -103,3 +103,57 @@ td{
     font-size: 45px;
 }
 
+.shaddow1{
+     width: 500px;
+     box-shadow: 10px 15px 10px black;
+
+}
+.shaddow2{
+    width: 400px;
+    box-shadow: 5px 10px 50px rgb(26, 10, 85);
+}
+
+.shaddow3{ 
+    width: 500px;
+      box-shadow: 5px 10px 50px rgb(24, 205, 250);
+  
+}
+.shaddow4{
+    filter: drop-shadow(10px 15px 20px rgb(7, 7, 7));
+}
+
+.shaddow5{
+    filter: drop-shadow(10px 15px 30px rgb(3, 44, 92));
+}
+.shaddow6{
+    filter: drop-shadow(10px 10px 20px rgb(28, 159, 199));
+}
+
+.fontfamily1{
+    font-family: monospace;
+    font-weight: bolder;
+    font-style: italic;
+}
+.fontfamily2{
+    font-family: sans-serif;
+}
+
+.fontfamily3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+
+.fontfamily4{
+    font: italic bold 30px verdana;
+}
+
+.heading1{
+    font-size: 30px;
+    color: brown;
+}
+
+#heading1{
+    color: darkgoldenrod;
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
